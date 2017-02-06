@@ -7,5 +7,5 @@ def goodbye
 end
 
 def hmm
-  puts "hmm"
+  puts "hmm....maybe?"
 end
